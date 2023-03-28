@@ -1,23 +1,23 @@
 let myEvent = [
     {
         title: "wedding",
-        date: "12/10/2022",
+        date: new Date("2022-03-25"),
         location: "Nairobi",
         attendees: new Set(["John", "Kinyua", "Kelvin", "Wambua"])
     },
     {
         title: "birthday",
-        date: "10/10/2012",
+        date: new Date("2022-03-25"),
         location: "Nairobi",
         attendees: new Set(["Daniel", "Veronicah", "Kelvin", "Anne"])
     },
     {
         title: "part",
-        date: "02/05/2019",
+        date: new Date("2022-03-25"),
         location: "Nairobi",
         attendees: new Set(["Dan", "Yvonne", "Antony", "Wambui"])
     }
 ]
 
 // console.log(myEvent[1]);
-console.log(myEvent.length);
+// console.log(myEvent.length);
