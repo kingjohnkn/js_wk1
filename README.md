@@ -1,6 +1,6 @@
 # js_wk1
 
-### nJavaScript Week One Project - Zindua School
+### JavaScript Week One Project - Zindua School
 
 Create a script that manages a list of events for a calendar application.
 
