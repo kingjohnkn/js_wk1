@@ -23,5 +23,6 @@ Use the `Object.keys()`, `Object.values()`, and `Object.entries()` methods to di
 
 Use the `.forEach()` method to iterate over the events array and `console.log` the title and date of each event.
 
-***Bonus: Implement functionality to delete events from the array using the .splice() method.
-Bonus: Use the .reduce() method to find the event with the most attendees.***
+***Bonus: Implement functionality to delete events from the array using the .splice() method. ***
+
+***Bonus: Use the .reduce() method to find the event with the most attendees.***
